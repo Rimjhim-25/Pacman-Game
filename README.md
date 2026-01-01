@@ -4,6 +4,9 @@
 A modern Pac‑Man style browser game built with React, TypeScript, Vite and HTML Canvas.  
 The goal is to collect all pellets in the maze while avoiding the ghosts, with smooth animations and multiple visual themes (Classic, Neon, Cyberpunk).
 
+## Demo
+
+Live: https://pacman-game-y8d2.vercel.app/
 
 
 ## Features
